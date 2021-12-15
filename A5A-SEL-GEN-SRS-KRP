@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]AÇÃO[/B][/COLOR] </name>
 <externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/C-SRS-ACA-LS-KRP</externallink>
-<thumbnail>https://i.ibb.co/7YL34gG/ACA-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/9sSR5QY/ACA-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
 <info>SEGURE-SE NA POLTRONA AQUI É PANCADARIA E TIROTEIO</info>
 </channel>
@@ -26,7 +26,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1B-EPC-LS-KRP/main/C-SRS-EPC-LS-KRP</externallink>
-<thumbnail>https://i.ibb.co/fNkyNdj/EPC-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/8z6Q9HV/EPC-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/kM1PM9N/EPICOS-FAN.png</fanart>
 <info>PASSAGENS HISTÓRICAS COMO NUNCA VISTAS</info>
 </channel>
@@ -38,7 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]GUERRA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/wSh2rM8/GRR-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/j57PxPC/GRR-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/JHYRY2N/GUERRA-FAN.png</fanart>
 <info>BATALHAS E COMBATES É AQUI</info>
 </channel>
@@ -50,7 +50,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]COMÉDIA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/TPf721p/CMD-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/fGkw3Ck/CMD-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/Jy9VPvf/COMED-FAN.png</fanart>
 <info>DAR BOAS RISADAS É AQUI MESMO</info>
 </channel>
@@ -63,7 +63,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]WESTERN[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/FXHkG3p/WST-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/jznjQjb/WESTERN-FAN.png</fanart>
+<fanart>https://i.ibb.co/5M3kDdt/WST-SRS.png</fanart>
 <info>TIROTEIOS E PERSEGUIÇÕES NO VELHO OESTE</info>
 </channel>
 </channels>
@@ -74,7 +74,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]AVENTURA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/nbcdd4v/AVT-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/Jjky1Mm/AVT-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/fG1qvY0/AVENT-FAN.png</fanart>
 <info>CONHEÇA AS GRANDES AVENTURAS DO CINEMA</info>
 </channel>
@@ -86,7 +86,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/YtJqm4d/ANM-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/X5J6tdC/ANM-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/f10dJBQ/ANIM-FAN.png</fanart>
 <info>DIVERSÃO ANIMADA E GARANTIDA</info>
 </channel>
@@ -98,7 +98,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SUPER-HERÓIS[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/Z8kTXbN/SPH-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/GMS5jqy/SPH-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/f08jx10/SUP-HER-FAN.png</fanart>
 <info>OS MAIORES HERÓIS EM SUAS MAIORES AVENTURAS</info>
 </channel>
@@ -110,7 +110,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]CRIME E DRAMA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/7S4vHCM/CRDR-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/PhJJfKR/CRDR-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/B49mGGP/CRIM-DRM-FAN.png</fanart>
 <info>OS MELHORES CLÁSSICOS DOS DOIS GÊNEROS ESTÃO AQUI </info>
 </channel>
@@ -122,7 +122,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FICÇÃO E FANTASIA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/ZNZZntt/FCFN-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/SQdqFFb/FCFN-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/yXnXnLK/FIC-FAN-FAN.png</fanart>
 <info>EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
 </channel>
@@ -134,7 +134,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]SUSPENSE E TERROR[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/qsp6tQd/SPTR-ALL.png</thumbnail>
+<thumbnail>https://i.ibb.co/jJf2tPz/SPTR-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/gVFBqPT/SUP-TER-FAN.png</fanart>
 <info>PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
 </channel>
