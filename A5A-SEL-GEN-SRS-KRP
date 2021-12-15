@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]AÇÃO[/B][/COLOR] </name>
+<name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR] </name>
 <externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/C-SRS-ACA-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/9sSR5QY/ACA-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]ÉPICOS[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1B-EPC-LS-KRP/main/C-SRS-EPC-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/8z6Q9HV/EPC-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/kM1PM9N/EPICOS-FAN.png</fanart>
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]GUERRA[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE GUERRA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/j57PxPC/GRR-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/JHYRY2N/GUERRA-FAN.png</fanart>
@@ -48,7 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COMÉDIA[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE COMÉDIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1D-COM-LS-KRP/main/C-SRS-COM-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/fGkw3Ck/CMD-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/Jy9VPvf/COMED-FAN.png</fanart>
@@ -60,7 +60,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]WESTERN[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE WESTERN[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/FXHkG3p/WST-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/5M3kDdt/WST-SRS.png</fanart>
@@ -72,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]AVENTURA[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE AVENTURA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/Jjky1Mm/AVT-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/fG1qvY0/AVENT-FAN.png</fanart>
@@ -84,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE ANIMAÇÃO[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/X5J6tdC/ANM-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/f10dJBQ/ANIM-FAN.png</fanart>
@@ -96,7 +96,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SUPER-HERÓIS[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE SUPER-HERÓIS[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/GMS5jqy/SPH-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/f08jx10/SUP-HER-FAN.png</fanart>
@@ -108,7 +108,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CRIME E DRAMA[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/PhJJfKR/CRDR-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/B49mGGP/CRIM-DRM-FAN.png</fanart>
@@ -120,7 +120,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/SQdqFFb/FCFN-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/yXnXnLK/FIC-FAN-FAN.png</fanart>
@@ -132,7 +132,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SUSPENSE E TERROR[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE SUSPENSE E TERROR[/B][/COLOR]</name>
 <externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/jJf2tPz/SPTR-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/gVFBqPT/SUP-TER-FAN.png</fanart>
