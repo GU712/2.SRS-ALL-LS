@@ -41,8 +41,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Heróis - O Brasil na Segunda Guerra Mundial (2021)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/B1C-GRR-LS-MTX/main/C4-SRS-Herois.da.FEB-MTX</externallink>
+<thumbnail>https://media.fstatic.com/YQ0-XwuEpi_I0l4mbIXCGB-Msbs=/290x478/smart/media/movies/covers/2011/07/eb8dfb1b635372514317357986e7e034.jpg</thumbnail>
+<fanart>https://www.forte.jor.br/wp-content/uploads/2011/07/herois_1280x1024_01.jpg</fanart>
+<info>Assista aqui a série Heróis. 
+[COLOR orange][B]GUERRA[/B][/COLOR]
+[COLOR orange][B]01 TEMP - 05 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]LOL - Se Rir, Já Era (2021)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/A1D-COM-LS-KRP/main/C7-SRS-Se.RiR.JA.Era-KRP</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1D-COM-LS-MTX/main/C7-SRS-Se.RiR.JA.Era-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/kds0ISeNmbInlM9GCsWKCXtSRSq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3MBC7QUAReR9K3wKxNnQQ0EHJZZ.jpg</fanart>
 <info>Assista aqui a série LOL - Se Rir, Já Era. 
