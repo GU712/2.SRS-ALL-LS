@@ -12,6 +12,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Bem-vindos à Terra (2021) - COMPLETA [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/A1F-AVT-LS-KRP/main/C3-SRS-Bem.Vindos.A.Terra-KRP</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/lt2lMFAyUT8o5B6IXCy2Rt26ulP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rzlxAB0COqExhbIGka3JZTSCIlr.jpg</fanart>
+<info>Assista aqui a série Bem-vindos à Terra. 
+[COLOR orange][B]AVENTURA[/B][/COLOR]
+[COLOR orange][B]01 TEMP - 06 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Gavião Arqueiro (2021) ATUALIZANDO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2.SRS-ALL-LS/main/Z2A-SRS-GaviaoArqueiro-KRP</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>	
@@ -23,20 +37,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Bem-vindos à Terra (2021) - COMPLETA [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/A1F-AVT-LS-KRP/main/C3-SRS-Bem.Vindos.A.Terra-KRP</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/lt2lMFAyUT8o5B6IXCy2Rt26ulP.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rzlxAB0COqExhbIGka3JZTSCIlr.jpg</fanart>
-<info>Assista aqui a série Bem-vindos à Terra. 
-[COLOR orange][B]AVENTURA[/B][/COLOR]
-[COLOR orange][B]01 TEMP - 06 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 2021[/B][/COLOR]</info>
-</channel>
-</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
@@ -82,6 +82,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]Passaporte para Liberdade (2021)[/B][/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/vlko98oAN0vWeJWmm1kePPj0Foa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2PCXDdPd5vUY4gStEUGslG8RiPm.jpg</fanart>
+<info>Assista a série Passaporte para Liberdade. 
+[COLOR orange][B]GUERRA[/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 08 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
