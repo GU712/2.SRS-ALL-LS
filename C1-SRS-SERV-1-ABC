@@ -972,7 +972,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/79149.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T14E23[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/79150.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] l[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] L[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Largados e Pelados T03E01[/B][/COLOR]
