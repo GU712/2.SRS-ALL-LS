@@ -91,7 +91,10 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/48235.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] A[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família1 T01E01[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família T01E01[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70287.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T01E02[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70288.mp4
@@ -164,7 +167,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70321.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T01E36[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70322.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T02E01[/B][/COLOR]
@@ -240,7 +243,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70357.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T02E36[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70358.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T03E01[/B][/COLOR]
@@ -318,7 +321,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70649.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T03E37[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70650.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 04[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T04E01[/B][/COLOR]
@@ -382,7 +385,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70723.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T04E30[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70724.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 04[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 05[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T05E01[/B][/COLOR]
@@ -458,7 +461,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70830.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T05E36[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70831.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 05[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 06[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T06E01[/B][/COLOR]
@@ -536,7 +539,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70867.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T06E37[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70868.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 06[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 07[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T07E01[/B][/COLOR]
@@ -614,7 +617,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70904.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T07E37[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70905.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 07[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 08[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T08E01[/B][/COLOR]
@@ -694,7 +697,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70955.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T08E38[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70956.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 08[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 09[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T09E01[/B][/COLOR]
@@ -770,7 +773,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70991.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T09E36[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/70992.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 09[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 10[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T10E01[/B][/COLOR]
@@ -846,7 +849,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/71027.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T11E01[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/72348.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 10[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 11[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T11E02[/B][/COLOR]
@@ -924,7 +927,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/72384.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T11E38[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/72385.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 11[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 12[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T12E01[/B][/COLOR]
@@ -1004,7 +1007,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/72422.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T12E38[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/72423.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 12[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 13[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T13E01[/B][/COLOR]
@@ -1060,7 +1063,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/79126.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T13E26[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/79127.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 13[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]TEMP 14[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ycaLRFLpquYGGiKgxz4xgAsCKUn.jpg" group-title="[COLOR white][B] A Grande Família [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]A Grande Família  T14E01[/B][/COLOR]
@@ -1113,12 +1116,11 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/79150.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] L[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Largados e Pelados T03E01[/B][/COLOR]
-http://sv1
-.nowiptv.net:8880/series/ACML2/756498630968KHg/107644.mp4
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/107644.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Largados e Pelados T03E02[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/107645.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Largados e Pelados T03E03[/B][/COLOR]
@@ -1142,7 +1144,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/38668.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Largados e Pelados T03E12[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/38669.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]TEMP 04[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Largados e Pelados T04E01[/B][/COLOR]
@@ -1166,7 +1168,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/44673.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Largados e Pelados T04E10[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/44674.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]TEMP 05[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6LSTSQ46Rxu0wmsNyqy0ge4qOaN.jpg" group-title="[COLOR white][B] Largados e Pelados [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Largados e Pelados T05E01[/B][/COLOR]
