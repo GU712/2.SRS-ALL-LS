@@ -5,6 +5,8 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] NUMERAIS [/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/22YerMIPRTPe4jG1A2a9jgpBWxo.jpg" group-title="[COLOR white][B] 1 Contra Todos [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/22YerMIPRTPe4jG1A2a9jgpBWxo.jpg" group-title="[COLOR white][B] 1 Contra Todos [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]1 Contra Todos T01E01[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/1097.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/22YerMIPRTPe4jG1A2a9jgpBWxo.jpg" group-title="[COLOR white][B] 1 Contra Todos [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]1 Contra Todos T01E02[/B][/COLOR]
@@ -21,6 +23,8 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/1105.mp4
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/1107.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/22YerMIPRTPe4jG1A2a9jgpBWxo.jpg" group-title="[COLOR white][B] 1 Contra Todos [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]1 Contra Todos T01E08[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/1108.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/22YerMIPRTPe4jG1A2a9jgpBWxo.jpg" group-title="[COLOR white][B] 1 Contra Todos [/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
+LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/22YerMIPRTPe4jG1A2a9jgpBWxo.jpg" group-title="[COLOR white][B] 1 Contra Todos [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]1 Contra Todos T02E01[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/1110.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/22YerMIPRTPe4jG1A2a9jgpBWxo.jpg" group-title="[COLOR white][B] 1 Contra Todos [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]1 Contra Todos T02E02[/B][/COLOR]
