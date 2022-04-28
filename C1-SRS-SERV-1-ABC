@@ -1522,7 +1522,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/82914.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] T[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Todo Mundo Odeia o Chris T01E01[/B][/COLOR]
@@ -1570,7 +1570,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/5025.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Todo Mundo Odeia o Chris T01E22[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/5026.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Todo Mundo Odeia o Chris T02E01[/B][/COLOR]
@@ -1618,7 +1618,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/5047.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Todo Mundo Odeia o Chris T02E22[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/5048.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Todo Mundo Odeia o Chris T03E01[/B][/COLOR]
@@ -1666,7 +1666,7 @@ http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/5069.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Todo Mundo Odeia o Chris T03E22[/B][/COLOR]
 http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/5070.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]TEMP 04[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]TEMP 04[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5rqCyqJWi7LqbuCJyRCNaZtKcHc.jpg" group-title="[COLOR white][B] Todo Mundo Odeia o Chris [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Todo Mundo Odeia o Chris T04E01[/B][/COLOR]
