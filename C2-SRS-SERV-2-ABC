@@ -406,4 +406,16 @@ http://b5.vc:80/series/elaine123/123elaine/9822.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7bjSr0E4tGSTdfiisjl1RVnQWd5.jpg" group-title="[COLOR white][B] O Mundo Perdido [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Mundo Perdido T03E22[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/9823.mp4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] U[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7bjSr0E4tGSTdfiisjl1RVnQWd5.jpg" group-title="[COLOR white][B] teste [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7bjSr0E4tGSTdfiisjl1RVnQWd5.jpg" group-title="[COLOR white][B] O teste [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7bjSr0E4tGSTdfiisjl1RVnQWd5.jpg" group-title="[COLOR white][B] teste [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Mundo Perdido T01E01[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/9759.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7bjSr0E4tGSTdfiisjl1RVnQWd5.jpg" group-title="[COLOR white][B] teste [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Mundo Perdido T01E02[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/9760.mp4
